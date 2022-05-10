@@ -1,5 +1,17 @@
 # the-kids-are-alt-right
-An RPG based game to help kids understand concepts of cybersecurity
+An RPG based game based on Zelda. 
+
+# Vision
+help kids understand cybersecurity.
+
+# To be Added
+
+- Intro screen
+- Merlin the Wizard tutorials at each step
+- Extended gameplay and levels to defeat tech-world villains
+- Search functionality
+- Plagiarism level
+- 
 
 # Credits
 

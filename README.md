@@ -1,4 +1,4 @@
-# the-kids-are-alt-right
+# the-kids-are-alt-okay
 An RPG based game based on Zelda. 
 
 # Vision

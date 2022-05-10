@@ -4,6 +4,20 @@ An RPG based game based on Zelda.
 # Vision
 help kids understand cybersecurity.
 
+# How to Run
+
+1. Download everything.
+2. Run all Python files except ````main.py````.
+3. Run ````main.py````.
+
+# Gameplay
+1. Move player using arrow keys.
+2. Change weapon using X key
+3. Change magic using M key
+4. Pause using P key
+5. Attack using spacebar
+6. Use magic using CTRL key
+
 # To be Added
 
 - Intro screen
@@ -11,7 +25,6 @@ help kids understand cybersecurity.
 - Extended gameplay and levels to defeat tech-world villains
 - Search functionality
 - Plagiarism level
-- 
 
 # Credits
 
